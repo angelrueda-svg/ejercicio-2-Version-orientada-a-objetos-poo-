@@ -1,3 +1,4 @@
 ## ejercicio 2 version orientada a objetos poo
-[ejercicio 2 version orientada a objetos poo](tarea3.md)
+[Ejercicio 2 – Versión orientada a objetos (POO)](tarea3.md)
+
 
